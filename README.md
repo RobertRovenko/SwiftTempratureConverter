@@ -1,1 +1,2 @@
-# SwiftTempratureConverter![Simulator Screenshot - iPhone 14 Pro - 2023-09-07 at 09 45 02](https://github.com/RobertRovenko/SwiftTempratureConverter/assets/32544623/d69747d7-2b45-4b94-8c42-764df0ed7e1c)
+
+<img src="https://github.com/RobertRovenko/SwiftTempratureConverter/assets/32544623/d69747d7-2b45-4b94-8c42-764df0ed7e1c" width="275" height="600">
